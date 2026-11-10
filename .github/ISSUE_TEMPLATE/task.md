@@ -1,5 +1,5 @@
 ---
-name: 작업
+name: 작업 등록
 about: 구현·측정·검증·문서 작업 단위를 등록합니다
 title: "[작업] "
 labels: task
